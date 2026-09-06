@@ -2,42 +2,54 @@
   "星塔_节点_商店_商店购物_agent": {
     "recognition": {
       "param": {
-        "expected": ["商店購物"]
+        "expected": [
+          "商店購物"
+        ]
       }
     }
   },
   "星塔_节点_商店_购物_格子主界面_agent": {
     "recognition": {
       "param": {
-        "expected": ["購買"]
+        "expected": [
+          "購買"
+        ]
       }
     }
   },
   "星塔_节点_商店_购物_货币不足_agent": {
     "recognition": {
       "param": {
-        "expected": ["沒有足夠的"]
+        "expected": [
+          "沒有足夠的"
+        ]
       }
     }
   },
   "星塔_节点_商店_购物_格子_buff优惠_agent": {
     "recognition": {
       "param": {
-        "expected": ["優惠"]
+        "expected": [
+          "優惠"
+        ]
       }
     }
   },
   "星塔_节点_商店_购物_格子_优惠_agent": {
     "recognition": {
       "param": {
-        "expected": ["優惠"]
+        "expected": [
+          "優惠"
+        ]
       }
     }
   },
   "星塔_节点_商店_购物_格子_buff_agent": {
     "recognition": {
       "param": {
-        "expected": ["能夠獲得新潛能"]
+        "expected": [
+          "能夠獲得新潛能"
+        ]
       }
     }
   },
@@ -55,7 +67,9 @@
   "星塔_节点_最终商店_无法刷新_agent": {
     "recognition": {
       "param": {
-        "expected": ["無法"]
+        "expected": [
+          "無法"
+        ]
       }
     }
   },
@@ -81,28 +95,36 @@
   "星塔_节点_商店_下一层_agent": {
     "recognition": {
       "param": {
-        "expected": ["上樓"]
+        "expected": [
+          "上樓"
+        ]
       }
     }
   },
   "星塔_节点_最终商店_离开星塔_agent": {
     "recognition": {
       "param": {
-        "expected": ["離開星塔"]
+        "expected": [
+          "離開星塔"
+        ]
       }
     }
   },
   "星塔_离开星塔_agent": {
     "recognition": {
       "param": {
-        "expected": ["確認"]
+        "expected": [
+          "確認"
+        ]
       }
     }
   },
   "星塔_节点_商店_购物_格子_购买_agent": {
     "recognition": {
       "param": {
-        "expected": ["購買"]
+        "expected": [
+          "購買"
+        ]
       }
     }
   }
